@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: #fff;
+}
+
+h1{
+    text-align: center;
+    padding-top: 40px;
+}
+
+#container{
+    width: 370px;
+    height: 540;
+    margin: auto;
+    margin-top: 100px;
+    background-color:rgb(78, 50, 100);
+    padding-left: 30px;
+    border-radius: 10px;
+
+
+}
+
+#getcenter{
+    padding-left: 30px;
+}
+
+#cm{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+
+#kg{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+}
+
+#weightguide{
+    margin-left: 35px;
+    margin-top: 30px;
+}
+
+#result{
+    font-size: 35px;
+    margin-left: 150px;
+    color: blue;
+
+}
+
+#submit{
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #fff;
+    color: #000;
+    font-size: 25px;
+
+}
